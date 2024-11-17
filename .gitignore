@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Project files
+*.txt
+*.mp3
+*.ttf
+*.png
+*.exe
+*.wav
+*.json
 # C extensions
 *.so
 
